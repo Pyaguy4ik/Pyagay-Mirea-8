@@ -27,10 +27,7 @@ go get github.com/redis/go-redis/v9
 
 ![structure](img/structure.png)
 
-# Запуск и проверка
-![go.run](img/go_run.png)
-
-# Проверяем
+# Запускаем сервер и проверяем
 
 ## Запрос /Health
 ![create](img/health.png)
